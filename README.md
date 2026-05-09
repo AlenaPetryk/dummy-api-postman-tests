@@ -31,5 +31,5 @@ This repository contains a robust Postman collection and environment for automat
     *   Paste your key into the **Current Value** of the `app-id` variable.
 4.  **Execute**: Open the Collection Runner, select the environment, and click **Run**.
 
-## 📊 Results
-*(Insert your screenshot of the Postman Runner with green checkmarks here)*
+## 📊 Results ![Results](screenshots/results.png)
+
