@@ -1,0 +1,52 @@
+{
+	"id": "3b016a93-71ca-41e4-b250-1b81a1b1b95f",
+	"name": "QA",
+	"values": [
+		{
+			"key": "email",
+			"value": "",
+			"type": "default",
+			"enabled": false
+		},
+		{
+			"key": "userID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "postID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "commentID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "baseURL",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "app-id",
+			"value": "API-KEY-HERE",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-05-09T09:59:26.953Z",
+	"_postman_exported_using": "Postman/12.9.3"
+}
