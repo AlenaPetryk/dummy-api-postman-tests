@@ -1,6 +1,6 @@
 # API Automation Testing Portfolio: Dummy API (CRUD)
 
-This repository contains a robust Postman collection and environment for automated testing of the **Dummy API** service. The project demonstrates advanced testing techniques, including dynamic data management, and security validation.
+This repository contains Postman collection and environment for automated testing of the **Dummy API** service. The project demonstrates advanced testing techniques, including dynamic data management, and security validation.
 
 ## 🛠 Features & Technical Highlights
 
