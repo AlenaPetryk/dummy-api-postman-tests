@@ -1,11 +1,11 @@
-# API Automation Testing Portfolio: Dummy API (CRUD & Critical Path Testing)
+# API Automation Testing Portfolio: Dummy API (CRUD)
 
-This repository contains a robust Postman collection and environment for automated testing of the **Dummy API** service. The project demonstrates advanced testing techniques, including End-to-End (E2E) workflows, dynamic data management, and security validation.
+This repository contains a robust Postman collection and environment for automated testing of the **Dummy API** service. The project demonstrates advanced testing techniques, including dynamic data management, and security validation.
 
 ## 🛠 Features & Technical Highlights
 
 *   **15 Automated Requests**: Covering complete CRUD lifecycles for Users, Posts, and Comments.
-*   **Smart Workflow (E2E)**: Seamless data transfer between requests. IDs from created entities (Users/Posts) are dynamically captured and passed to subsequent Update and Delete operations.
+*   **Smart Workflow**: Seamless data transfer between requests. IDs from created entities (Users/Posts) are dynamically captured and passed to subsequent Update and Delete operations.
 *   **Advanced Assertions**: 
     *   Response code validation (200, 403, 404).
     *   Response time monitoring (Performance benchmarks).
