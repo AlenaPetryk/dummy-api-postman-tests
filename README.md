@@ -24,12 +24,12 @@ This repository contains a robust Postman collection and environment for automat
 ## 🚀 How to Run
 
 1.  **Clone** this repository or download the `.json` files from the `/postman` folder.
-2.  **Import** the Collection and Environment files into Postman.
-3.  **Setup API Key**:
+2.  **Import** **[the Collection](https://github.com/AlenaPetryk/dummy-api-postman-tests/blob/main/postman/DummyAPI_collection.json)** and Environment files into Postman.
+4.  **Setup API Key**:
     *   Get your `app-id` from [hub.dummyapi.io](https://dummyapi.io).
     *   In Postman, open the imported Environment.
     *   Paste your key into the **Current Value** of the `app-id` variable.
-4.  **Execute**: Open the Collection Runner, select the environment, and click **Run**.
+5.  **Execute**: Open the Collection Runner, select the environment, and click **Run**.
 
 ## 📊 Results ![Results](screenshots/results.png)
 
